@@ -18,15 +18,15 @@ Input → Gating → Routing → Expert Processing → Output Gathering
 
 Key Features
 
-.Top-1 gating mechanism
+Top-1 gating mechanism
 
-.Efficient token routing using NumPy
+Efficient token routing using NumPy
 
-.Grouped expert execution
+Grouped expert execution
 
-.Safe and portable (no CUDA dependencies)
+Safe and portable (no CUDA dependencies)
 
-.Compatible with evaluation environments
+Compatible with evaluation environments
 
 
 This repository implements a clean, reliable, and portable version of the MXFP4 MoE kernel, designed to run safely in the evaluation environment.
